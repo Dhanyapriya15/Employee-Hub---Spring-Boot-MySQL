@@ -42,10 +42,10 @@ json
 }
 
 Tools and Technologies Used
-Backend: Spring Boot
-Database: MySQL
-Testing: Postman
-Build Tool: Maven
+Backend: Spring Boot,
+Database: MySQL,
+Testing: Postman,
+Build Tool: Maven,
 Language: Java
 
 
